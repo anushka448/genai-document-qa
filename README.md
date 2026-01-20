@@ -19,3 +19,8 @@ This project implements a free, open-source Generative AI application that allow
 - Streamlit
 
 ## 📁 Project Structure
+## ▶️ How to Run
+```bash
+pip install -r requirements.txt
+python ingest.py
+streamlit run app.py
